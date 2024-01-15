@@ -38,16 +38,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at https://imsahadeb.github.io/The-Meal-App-Coding-Ninjas/
+Check out the live demo of the application at https://3922d6df-2a0c-4af8-baf3-14ce4ee186d5-00-yg0ax8fzflqs.sisko.replit.dev/index.html
 
 ## Authors
 
-- [@imsahadeb](https://github.com/imsahadeb)
+-https://github.com/Jenefa5
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
 
-- The Meal DB API (https://www.themealdb.com
